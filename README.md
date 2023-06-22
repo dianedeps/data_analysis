@@ -1,2 +1,2 @@
-# ml
-This is a machine learning projects repo
+# data_analysis
+This is a data analysis projects repo
