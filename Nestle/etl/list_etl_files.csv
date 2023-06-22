@@ -1,0 +1,14 @@
+full_path,item,path,file,extension
+c:\Users\Diane\git\data_analysis\Nestle\etl\1_extract.ipynb,etl,c:\Users\Diane\git\data_analysis\Nestle\etl\,1_extract.ipynb,ipynb
+c:\Users\Diane\git\data_analysis\Nestle\etl\2_transform.ipynb,etl,c:\Users\Diane\git\data_analysis\Nestle\etl\,2_transform.ipynb,ipynb
+c:\Users\Diane\git\data_analysis\Nestle\etl\3_load copy.txt,etl,c:\Users\Diane\git\data_analysis\Nestle\etl\,3_load copy.txt,txt
+c:\Users\Diane\git\data_analysis\Nestle\etl\3_load.txt,etl,c:\Users\Diane\git\data_analysis\Nestle\etl\,3_load.txt,txt
+c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing\BaseCargos_separator_formatted.csv,cleansing,c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing,BaseCargos_separator_formatted.csv,csv
+c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing\BaseCEP_separator_formatted.csv,cleansing,c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing,BaseCEP_separator_formatted.csv,csv
+c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing\BaseClientes_separator_formatted.csv,cleansing,c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing,BaseClientes_separator_formatted.csv,csv
+c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing\BaseFuncionarios_separator_formatted.csv,cleansing,c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing,BaseFuncionarios_separator_formatted.csv,csv
+c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing\BaseNivel_separator_formatted.csv,cleansing,c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing,BaseNivel_separator_formatted.csv,csv
+c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing\BasePQ_separator_formatted.csv,cleansing,c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing,BasePQ_separator_formatted.csv,csv
+c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing\Vendas_formatted.json,cleansing,c:\Users\Diane\git\data_analysis\Nestle\etl\cleansing,Vendas_formatted.json,json
+c:\Users\Diane\git\data_analysis\Nestle\etl\list_etl_files.csv,etl,c:\Users\Diane\git\data_analysis\Nestle\etl\,list_etl_files.csv,csv
+c:\Users\Diane\git\data_analysis\Nestle\etl\query.sql,etl,c:\Users\Diane\git\data_analysis\Nestle\etl\,query.sql,sql
