@@ -1,4 +1,4 @@
-sqlite3 raw_data.db
+sqlite3 dw.db
 
 CREATE TABLE Cep (
 	cep TEXT,	
@@ -262,5 +262,11 @@ CREATE TABLE Vendas_3 (
 	meses_3_proporcao_packfisico TEXT
 );
 
-.import C:/Users/Diane/git/data_analysis/Nestle/etl/formatting/BaseCEP_separator_formatted.csv Cep
+.mode csv
+.import C:/Users/Diane/git/data_analysis/Nestle/etl/loading/BaseCEP_to_load.csv Cep
+.import C:/Users/Diane/git/data_analysis/Nestle/etl/loading/BaseClientes_to_load.csv Clientes
+.import C:/Users/Diane/git/data_analysis/Nestle/etl/loading/vendas_mes_1_to_load.csv Vendas_1
+.import C:/Users/Diane/git/data_analysis/Nestle/etl/loading/vendas_mes_2_to_load.csv Vendas_2
+.import C:/Users/Diane/git/data_analysis/Nestle/etl/loading/vendas_mes_3_to_load.csv Vendas_3
 
+.quit
